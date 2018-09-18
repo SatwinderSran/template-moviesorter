@@ -94,7 +94,7 @@ public class Movie implements Comparable<Movie> {
 	@Override
 	public int compareTo(Movie other) {
 		// TODO Implement this however you want.
-		return -1;
+		return 0;
 	}
 
 	// TODO Implement by creating a private static nested class and creating an instance.
