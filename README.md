@@ -1,7 +1,7 @@
 MovieSorter
 =================================================
 
-For this homework assignment, you will create a class that is able to clean and parse text into stemmed words. 
+For this homework assignment, you will create a class that is able to store basic information about movies (e.g. title, release date, length, and IMDB rating) and sort them by different attributes (e.g. movies sorted by release date, versus movies sorted by length).
 
 ## Requirements ##
 
